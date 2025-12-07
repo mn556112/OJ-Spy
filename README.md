@@ -1,3 +1,6 @@
+
+<p align="center"><img width="256" height="256" alt="제목 없음" src="https://github.com/user-attachments/assets/29f86a18-b8da-4b89-bf39-58dc5ec74a94" /></p>
+
 # 🧮 Sejong OJ 자동 채점 프로그램 (OJ-Spy)
 
 Sejong Online Judge(EX-OJ)의 채점 결과를 자동으로 수집하고  
